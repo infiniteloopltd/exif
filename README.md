@@ -1,3 +1,3 @@
 # exif
 
-[![httpsimage.com](https://httpsimage.com/v2/1d1e8c55-76a6-4c57-b8ff-21f4ef25b05c.png)](https://httpsimage.com)
+[![httpsimage.com](https://httpsimage.com/v2/42c07017-774a-4070-8541-5cd468c52c85.png)](https://httpsimage.com)
