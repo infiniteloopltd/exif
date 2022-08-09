@@ -1,0 +1,8 @@
+c:\users\fiach\documents\visual studio 2013\Projects\Exif\bin\Debug\Exif.exe.config
+c:\users\fiach\documents\visual studio 2013\Projects\Exif\bin\Debug\fake.jpg
+c:\users\fiach\documents\visual studio 2013\Projects\Exif\bin\Debug\real.jpg
+c:\users\fiach\documents\visual studio 2013\Projects\Exif\bin\Debug\Exif.exe
+c:\users\fiach\documents\visual studio 2013\Projects\Exif\bin\Debug\Exif.pdb
+c:\users\fiach\documents\visual studio 2013\Projects\Exif\obj\Debug\Exif.csprojResolveAssemblyReference.cache
+c:\users\fiach\documents\visual studio 2013\Projects\Exif\obj\Debug\Exif.exe
+c:\users\fiach\documents\visual studio 2013\Projects\Exif\obj\Debug\Exif.pdb
